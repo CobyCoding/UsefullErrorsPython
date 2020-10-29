@@ -1,2 +1,4 @@
 # UsefullErrorsPython
-This is a module for python.
+This is a work in progress module for python.
+
+If you are reading this click watch and start and come back when the first version is released
